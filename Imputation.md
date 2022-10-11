@@ -1,7 +1,3 @@
-Imputation
-================
-Linda Luu
-
 ## Imputation
 
 The goal of this project is to compare the performance of three
